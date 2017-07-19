@@ -1,0 +1,21 @@
+h2{			
+	font-size:2em;
+}
+body{			
+	text-align: center;
+	background-color: #ff6600;
+	color: #f6f0f0;
+}
+img{
+	width:600px;
+	height:400px;
+}
+p{
+	font-size: 1.5em;
+	font-family: Arial;
+    text-align: center;
+    margin-left: auto;
+}
+canvas{
+	background: #c0c0c0;
+}
