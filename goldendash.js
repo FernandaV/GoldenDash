@@ -10,20 +10,20 @@ var score = 0;
 
 var splashScreenImage = new Image();
 var splashScreenClicked = false;
-splashScreenImage.src = "images/SplashScreen_FernandaV4761.png";
+splashScreenImage.src = "GoldenDashBackground.jpg";
 
 
 var backgroundImage = new Image();
-backgroundImage.src = "images/Background_FernandaV4761.png";
+backgroundImage.src = "newbackground.jpg";
 
 var collectableImage = new Image();
-collectableImage.src = "images/goodcollectables.png";
+collectableImage.src = "goodcollectables.png";
 
 var enemyImage = new Image();
-enemyImage.src = "images/badcollectables.png";
+enemyImage.src = "badcollectables.png";
 
 var playerImage = new Image();
-playerImage.src = "images/GoldenDashHeart.png";
+playerImage.src = "GoldenDashHeart.png";
 
 var enemySound = new Audio('sounds/enemySound.wav')
 var collectableSound = new Audio('sounds/collectableSound.wav')
