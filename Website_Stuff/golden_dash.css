@@ -289,6 +289,7 @@ body, html {
 	color: white;
 }
 
+
 /* Position text in the middle */
 .middle {
     position: absolute;
@@ -297,6 +298,12 @@ body, html {
     transform: translate(-50%, -50%);
     text-align: center;
 }
+#demo {
+    font-size: 30px;
+    color: white;
+}
+
+
 
 /* Style the <hr> element */
 hr {
